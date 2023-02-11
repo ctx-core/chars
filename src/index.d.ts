@@ -10,7 +10,7 @@ export const rarr = '→'
 export const harr = '↔'
 export const sum = '∑'
 /**
- * {@see link:http://www.amp-what.com/unicode/search/%2F.*%2F}
+ * @see {@link http://www.amp-what.com/unicode/search/%2F.*%2F}
  */
 export const start_of_heading = ''
 export const start_of_text = ''
