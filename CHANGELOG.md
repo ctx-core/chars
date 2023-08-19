@@ -1,5 +1,11 @@
 # @ctx-core/chars
 
+## 1.0.27
+
+### Patch Changes
+
+- tslib: ^2.6.1 -> ^2.6.2
+
 ## 1.0.26
 
 ### Patch Changes
