@@ -1,5 +1,20 @@
 # @ctx-core/chars
 
+## 1.1.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+
 ## 1.0.29
 
 ### Patch Changes
