@@ -1,5 +1,15 @@
 # @ctx-core/chars
 
+## 1.1.4
+
+### Patch Changes
+
+- package.json: files:
+
+      *.d.ts
+      *.js
+      *.json
+
 ## 1.1.3
 
 ### Patch Changes
