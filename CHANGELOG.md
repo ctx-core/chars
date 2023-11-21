@@ -1,5 +1,11 @@
 # @ctx-core/chars
 
+## 1.1.7
+
+### Patch Changes
+
+- tsx: ^4.1.4 -> ^4.2.0
+
 ## 1.1.6
 
 ### Patch Changes
