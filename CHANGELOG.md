@@ -1,5 +1,11 @@
 # @ctx-core/chars
 
+## 1.1.14
+
+### Patch Changes
+
+- @sveltejs/kit: ^2.5.2 -> ^2.5.3
+
 ## 1.1.13
 
 ### Patch Changes
