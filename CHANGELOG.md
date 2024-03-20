@@ -1,5 +1,11 @@
 # @ctx-core/chars
 
+## 1.1.16
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 1.1.15
 
 ### Patch Changes

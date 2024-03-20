@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/chars",
-	"version": "1.1.15",
+	"version": "1.1.16",
 	"description": "ctx-core chars",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/chars.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-chars@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
