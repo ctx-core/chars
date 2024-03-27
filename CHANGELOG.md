@@ -1,5 +1,11 @@
 # @ctx-core/chars
 
+## 1.1.17
+
+### Patch Changes
+
+- @sveltejs/adapter-auto: ^3.1.1 -> ^3.2.0
+
 ## 1.1.16
 
 ### Patch Changes
