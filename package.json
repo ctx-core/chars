@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/chars",
-	"version": "1.1.21",
+	"version": "1.1.22",
 	"description": "ctx-core chars",
 	"keywords": [
 		"ctx-core",
@@ -44,11 +44,11 @@
 	"dependencies": {},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.2.0",
-		"@sveltejs/kit": "^2.5.8",
+		"@sveltejs/kit": "^2.5.9",
 		"c8": "^9.1.0",
 		"check-dts": "^0.7.2",
 		"tslib": "^2.6.2",
-		"tsx": "^4.10.2",
+		"tsx": "^4.10.4",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
