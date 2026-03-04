@@ -1,5 +1,15 @@
 # @ctx-core/chars
 
+## 1.1.33
+
+### Patch Changes
+
+- c8: ^10.1.3 -> ^11.0.0
+- @sveltejs/adapter-auto: ^3.3.1 -> ^7.0.1
+- check-dts: ^0.8.2 -> ^0.9.0
+- tsx: ^4.20.6 -> ^4.21.0
+- @sveltejs/kit: ^2.48.4 -> ^2.53.4
+
 ## 1.1.32
 
 ### Patch Changes
