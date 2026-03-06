@@ -1,5 +1,11 @@
 # @ctx-core/chars
 
+## 1.1.34
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 1.1.33
 
 ### Patch Changes
